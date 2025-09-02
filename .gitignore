@@ -1,0 +1,13 @@
+.next
+.next/
+node_modules
+node_modules/
+.env*
+.expo
+.expo/
+.gradle
+.gradle/
+.kotlin
+.kotlin/
+build
+build/
